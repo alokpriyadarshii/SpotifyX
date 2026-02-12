@@ -1,6 +1,6 @@
 # SpotifyX
 
-A Flutter project that recreates a modern Spotify-style **UI** with smooth layouts and a bottom-tab experience.  
+A Flutter project that recreates a modern Spotify style **UI** with smooth layouts and a bottom tab experience.  
 This is a **UI/learning project** (no real Spotify API/auth) — great for practice, demos, and customization.
 
 ---
