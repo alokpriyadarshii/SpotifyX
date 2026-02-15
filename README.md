@@ -10,8 +10,8 @@ This is a **UI/learning project** (no real Spotify API/auth) — great for pract
 - Login UI  
 - Home UI (mixes, artists, weekly picks)  
 - Search UI (browse + input)  
-- More / Library-style UI  
-- Top Hits page (SliverAppBar-style header)
+- More / Library style UI  
+- Top Hits page (SliverAppBar style header)
 
 ---
 
